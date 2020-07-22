@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 09d86c21f3939184d94b45b79ed86e43
+timeCreated: 1490880913
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone_001
+    100006: Bone_002
+    100008: Bone_003
+    100010: Bone_004
+    100012: Bone_005
+    100014: Bone_006
+    100016: Bone_007
+    100018: Bone_008
+    100020: Bone_009
+    100022: Bone_L
+    100024: Bone_L_001
+    100026: Bone_L_002
+    100028: Bone_L_003
+    100030: Bone_L_004
+    100032: Bone_L_005
+    100034: Bone_L_006
+    100036: Bone_L_007
+    100038: Bone_R
+    100040: Bone_R_001
+    100042: Bone_R_002
+    100044: Bone_R_003
+    100046: Bone_R_004
+    100048: Bone_R_005
+    100050: Bone_R_006
+    100052: Bone_R_007
+    100054: G-S3_iOS_MONSTER_Godzilla_2014
+    100056: //RootNode
+    400000: Armature
+    400002: Bone
+    400004: Bone_001
+    400006: Bone_002
+    400008: Bone_003
+    400010: Bone_004
+    400012: Bone_005
+    400014: Bone_006
+    400016: Bone_007
+    400018: Bone_008
+    400020: Bone_009
+    400022: Bone_L
+    400024: Bone_L_001
+    400026: Bone_L_002
+    400028: Bone_L_003
+    400030: Bone_L_004
+    400032: Bone_L_005
+    400034: Bone_L_006
+    400036: Bone_L_007
+    400038: Bone_R
+    400040: Bone_R_001
+    400042: Bone_R_002
+    400044: Bone_R_003
+    400046: Bone_R_004
+    400048: Bone_R_005
+    400050: Bone_R_006
+    400052: Bone_R_007
+    400054: G-S3_iOS_MONSTER_Godzilla_2014
+    400056: //RootNode
+    4300000: G-S3_iOS_MONSTER_Godzilla_2014
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: G-S3_iOS_MONSTER_Godzilla_2014
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: '
+
+      Imported file ''godzilla'' conversion failed: Required human bone ''LeftFoot''
+      not found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

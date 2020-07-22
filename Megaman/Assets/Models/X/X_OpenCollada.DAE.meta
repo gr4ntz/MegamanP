@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 9fe4889154fb9a344841bc538c7c9d6c
+timeCreated: 1484981492
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EnvironmentAmbientLight
+    100002: Head
+    100004: LeftArm
+    100006: LeftBusterEff
+    100008: LeftFoot
+    100010: LeftForeArm
+    100012: LeftHand
+    100014: LeftKnee
+    100016: LeftLeg
+    100018: LeftShoulderPad
+    100020: LeftToe
+    100022: RightArm
+    100024: RightBusterEff
+    100026: RightFoot
+    100028: RightForeArm
+    100030: RightHand
+    100032: RightKnee
+    100034: RightLeg
+    100036: RightShoulderPad
+    100038: RightToe
+    100040: Root
+    100042: Spine
+    100044: X
+    100046: X_ArmL_Buster
+    100048: X_ArmL_HandA
+    100050: X_ArmL_HandB
+    100052: X_ArmLUpgraded_Buster
+    100054: X_ArmLUpgraded_HandA
+    100056: X_ArmLUpgraded_HandB
+    100058: X_Armor
+    100060: X_ArmorUpgraded
+    100062: X_ArmR_Buster
+    100064: X_ArmR_HandA
+    100066: X_ArmR_HandB
+    100068: X_ArmRUpgraded_Buster
+    100070: X_ArmRUpgraded_HandA
+    100072: X_ArmRUpgraded_HandB
+    100074: X_Boots
+    100076: X_BootsUpgraded
+    100078: X_Helmet
+    100080: X_HelmetUpgraded
+    100082: //RootNode
+    400000: EnvironmentAmbientLight
+    400002: Head
+    400004: LeftArm
+    400006: LeftBusterEff
+    400008: LeftFoot
+    400010: LeftForeArm
+    400012: LeftHand
+    400014: LeftKnee
+    400016: LeftLeg
+    400018: LeftShoulderPad
+    400020: LeftToe
+    400022: RightArm
+    400024: RightBusterEff
+    400026: RightFoot
+    400028: RightForeArm
+    400030: RightHand
+    400032: RightKnee
+    400034: RightLeg
+    400036: RightShoulderPad
+    400038: RightToe
+    400040: Root
+    400042: Spine
+    400044: X
+    400046: X_ArmL_Buster
+    400048: X_ArmL_HandA
+    400050: X_ArmL_HandB
+    400052: X_ArmLUpgraded_Buster
+    400054: X_ArmLUpgraded_HandA
+    400056: X_ArmLUpgraded_HandB
+    400058: X_Armor
+    400060: X_ArmorUpgraded
+    400062: X_ArmR_Buster
+    400064: X_ArmR_HandA
+    400066: X_ArmR_HandB
+    400068: X_ArmRUpgraded_Buster
+    400070: X_ArmRUpgraded_HandA
+    400072: X_ArmRUpgraded_HandB
+    400074: X_Boots
+    400076: X_BootsUpgraded
+    400078: X_Helmet
+    400080: X_HelmetUpgraded
+    400082: //RootNode
+    4300000: X
+    4300002: X_Helmet
+    4300004: X_HelmetUpgraded
+    4300006: X_Armor
+    4300008: X_ArmorUpgraded
+    4300010: X_ArmL_HandA
+    4300012: X_ArmL_HandB
+    4300014: X_ArmL_Buster
+    4300016: X_ArmR_HandA
+    4300018: X_ArmR_HandB
+    4300020: X_ArmR_Buster
+    4300022: X_ArmLUpgraded_HandA
+    4300024: X_ArmLUpgraded_HandB
+    4300026: X_ArmLUpgraded_Buster
+    4300028: X_ArmRUpgraded_HandA
+    4300030: X_ArmRUpgraded_HandB
+    4300032: X_ArmRUpgraded_Buster
+    4300034: X_Boots
+    4300036: X_BootsUpgraded
+    9500000: //RootNode
+    13700000: X
+    13700002: X_ArmL_Buster
+    13700004: X_ArmL_HandA
+    13700006: X_ArmL_HandB
+    13700008: X_ArmLUpgraded_Buster
+    13700010: X_ArmLUpgraded_HandA
+    13700012: X_ArmLUpgraded_HandB
+    13700014: X_Armor
+    13700016: X_ArmorUpgraded
+    13700018: X_ArmR_Buster
+    13700020: X_ArmR_HandA
+    13700022: X_ArmR_HandB
+    13700024: X_ArmRUpgraded_Buster
+    13700026: X_ArmRUpgraded_HandA
+    13700028: X_ArmRUpgraded_HandB
+    13700030: X_Boots
+    13700032: X_BootsUpgraded
+    13700034: X_Helmet
+    13700036: X_HelmetUpgraded
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
